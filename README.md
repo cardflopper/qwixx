@@ -1,6 +1,4 @@
-# qwixx
-
-qwixx dice roller
+# qwixx dice roller
 
 - created 2018-12-16
 
