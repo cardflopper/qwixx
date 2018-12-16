@@ -1,10 +1,13 @@
 # qwixx
+
 qwixx dice roller
 
-This is a web app to replace the dice required for the game "Qwixx"
+- created 2018-12-16
 
-no framework used, just JS / HTML / CSS
+- This is a web app to replace the dice required for the dice game "Qwixx"
 
-original game designer: Steffen Benndorf
+- no framework used, just JS / HTML / CSS
 
-full game credits: https://boardgamegeek.com/boardgame/131260/qwixx/credits
+- original game designer: Steffen Benndorf
+
+- full game credits: https://boardgamegeek.com/boardgame/131260/qwixx/credits
