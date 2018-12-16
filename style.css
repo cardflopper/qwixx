@@ -1,0 +1,68 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  color: gray;
+  font-size: 30px;
+}
+
+button {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px 35px;
+}
+#dice {
+  font-size: 50px;
+
+  margin: 0 auto;
+}
+#dice div {
+  font-weight: bold;
+}
+
+#white {
+  color: white;
+}
+#blue {
+  color: blue;
+}
+#green {
+  color: green;
+}
+#red {
+  color: red;
+}
+#yellow {
+  color: yellow;
+}
+
+@media screen and (max-height: 500px) {
+  #dice div {
+    font-size: 25px;
+  }
+  h1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
+
+@media screen and (min-height: 501px) and (max-height: 799px) {
+  #dice div {
+    font-size: 50px;
+  }
+  h1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
+
+@media screen and (min-height: 800px) {
+  #dice div {
+    font-size: 120px;
+  }
+}
